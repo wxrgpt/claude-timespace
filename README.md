@@ -29,7 +29,7 @@ TimeScape（时光印记）是一个精美的时间可视化仪表板，通过�
 
 ### 🚀 演示
 
-[在线演示](https://your-demo-link.com) | [截图预览](#截图)
+[在线演示](https://claude-timespace.vercel.app/) | [截图预览](#截图)
 
 ### 🛠️ 技术栈
 
@@ -59,12 +59,6 @@ git clone https://github.com/yourusername/timescape.git
 - **配色方案**：修改 CSS 变量来改变颜色
 - **语言**：更新文本内容进行本地化
 
-### 📸 截图
-
-<div align="center">
-  <img src="screenshots/hour-view.png" width="400" alt="小时视图">
-  <img src="screenshots/month-view.png" width="400" alt="月份视图">
-</div>
 
 ### 🔧 高级配置
 
